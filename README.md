@@ -1,2 +1,2 @@
 # TacoCatMVC
- Palidrome fun
+ Palindrome fun
